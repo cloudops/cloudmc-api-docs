@@ -177,7 +177,7 @@ Required | &nbsp;
 `id`<br/>*UUID* | The configured workspace settings' id.
 `organization.id`<br/>*UUID* | The organization id that the workspace settings are linked to. It cannot be changed.
 `detailsViewSummaryFieldsLayout`<br/>*enum* | The layout to render summary fields in detail views. It could be either "DEFAULT" or "CONDENSED".
-`supportsMultiStep`<br/>*boolean* | If true the operation's (create/edit) forms for the service connection of an organization will appear in multi-step mode.
+`supportsMultiStep`<br/>*boolean* | If true, the operation's (create/edit) forms for the service connection of an organization will appear in multi-step mode.
 
 <!-------------------- DELETE WORKSPACE SETTINGS -------------------->
 ### Delete workspace settings
