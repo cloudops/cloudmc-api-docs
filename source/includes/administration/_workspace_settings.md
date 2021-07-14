@@ -121,7 +121,7 @@ curl -X POST "https://cloudmc_endpoint/api/v1/reseller/settings/workspace" \
 Required | &nbsp;
 ---------- | -----------
 `detailsViewSummaryFieldsLayout`<br/>*enum* | The layout to render summary fields in detail views. It could be either "DEFAULT" or "CONDENSED".
-`supportsMultiStep`<br/>*boolean* | If true the operation's (create/edit) forms for the service connection of an organization will appear in multi-step mode.
+`supportsMultiStep`<br/>*boolean* | If true, the operation's (create/edit) forms for the service connection of an organization will appear in multi-step mode.
 
 Optional | &nbsp;
 ---------- | -----------
